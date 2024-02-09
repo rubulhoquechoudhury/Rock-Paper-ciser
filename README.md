@@ -1,1 +1,1 @@
-# Rock-Paper-ciser
+# Rock-Paper game building using C
